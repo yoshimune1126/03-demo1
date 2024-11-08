@@ -14,14 +14,16 @@
   color: #FFFFFF;
 }
 
-.logout a {
-  text-decoration: none;
-  font-size: 14px;  
-  font-weight: bold;
-  color: #FFFFFF;
-}
 
 .main {
   display: flex;
-  
+  width: 1366px;
+  height: 688px;
+}
+
+.side-bar {
+  width: 260px;
+  height: 688px;
+  padding: 45px 20px;
+  background-color:#F8F5F5;
 }
